@@ -1,0 +1,19 @@
+from datetime import date, datetime, timedelta
+today = date.today()
+print("Today's date:", today)
+
+
+now = datetime.now()
+print("Current date and time:", now)
+
+
+ba = date(2036, 1, 1)
+print("Given date:", ba)
+
+
+temp = now.strftime("%d-%m-%Y %H:%M:%S")
+print("Formatted date and time:", temp)
+
+
+future = today + timedelta(days=3)
+print("Date after 7 days:", future)
