@@ -1,0 +1,35 @@
+Stud = {
+    "ABC1": "Rahul",
+    "ABC2": "Rohit",
+    "ABC3": "Aman"
+}
+
+attendance = {}
+
+days = int(input("Enter number of days: "))
+
+for id in Stud:
+    print("\nAttendance for", Stud[id])
+
+    att = []
+
+    for i in range(days):
+        status = input("Enter P for Present or A for Absent: ").upper()
+
+        att.append(status)
+
+    attendance[id] = att
+print("\n----- ATTENDANCE REPORT -----")
+
+for id in Stud:
+
+    present = attendance[id].count("P")
+
+    percentage = (present / days) * 100
+    percentage = round(percentage, 2)
+    print("\nID:", id)
+    print("Name:", Stud[id])
+    print("Attendance:", attendance[id])
+    print("Present Days:", present)
+    print("Absent Days:", days - present)
+    print("Attendance Percentage:", percentage, "%")
