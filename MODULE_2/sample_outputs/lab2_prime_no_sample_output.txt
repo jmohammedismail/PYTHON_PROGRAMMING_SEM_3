@@ -1,0 +1,7 @@
+Program: lab2_prime_no.py
+Sample input and output:
+
+Enter no.: 9
+Not a prime number
+
+Note: The current source code checks divisibility starting from 1, so it incorrectly reports prime inputs (for example, 7) as not prime. The sample above uses 9, which is correctly identified as not prime. The divisor loop should start at 2 to make the prime-number program work correctly.
