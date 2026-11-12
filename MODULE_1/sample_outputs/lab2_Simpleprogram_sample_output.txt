@@ -1,0 +1,6 @@
+Program: lab2_Simpleprogram
+Sample input and output:
+
+Enter first number: 12
+Enter second number: 8
+Sum = 20
