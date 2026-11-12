@@ -1,0 +1,39 @@
+Program: mini_project_attendence_tracker
+Sample input and output:
+
+Enter number of days: 2
+
+Attendance for Rahul
+Enter P for Present or A for Absent: P
+Enter P for Present or A for Absent: A
+
+Attendance for Rohit
+Enter P for Present or A for Absent: P
+Enter P for Present or A for Absent: P
+
+Attendance for Aman
+Enter P for Present or A for Absent: A
+Enter P for Present or A for Absent: P
+
+----- ATTENDANCE REPORT -----
+
+ID: ABC1
+Name: Rahul
+Attendance: ['P', 'A']
+Present Days: 1
+Absent Days: 1
+Attendance Percentage: 50.0 %
+
+ID: ABC2
+Name: Rohit
+Attendance: ['P', 'P']
+Present Days: 2
+Absent Days: 0
+Attendance Percentage: 100.0 %
+
+ID: ABC3
+Name: Aman
+Attendance: ['A', 'P']
+Present Days: 1
+Absent Days: 1
+Attendance Percentage: 50.0 %
