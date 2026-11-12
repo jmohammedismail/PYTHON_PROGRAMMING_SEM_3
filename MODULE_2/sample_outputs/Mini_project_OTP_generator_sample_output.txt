@@ -1,0 +1,8 @@
+Program: Mini_project_OTP_generator.py
+Example run (the OTP generated in this example is 4821):
+
+Your OTP is: 4821
+Enter the OTP: 4821
+OTP verified successfully!
+
+Note: The OTP is generated randomly, so the actual value will change on each run. Enter the displayed OTP to verify it.
