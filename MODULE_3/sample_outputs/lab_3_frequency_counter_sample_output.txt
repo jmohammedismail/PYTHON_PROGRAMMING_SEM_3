@@ -1,0 +1,5 @@
+Program: lab_3_frequency_counter
+Sample input and output:
+
+Enter a word: banana
+{'b': 1, 'a': 3, 'n': 2}
