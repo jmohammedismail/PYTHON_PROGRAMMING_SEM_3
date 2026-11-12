@@ -1,0 +1,50 @@
+Sample run:
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. Display Students
+3. Exit
+Enter your choice: 1
+Enter Roll Number: 101
+Enter Student Name: Rahul
+Enter Marks: 95
+Student added successfully!
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. Display Students
+3. Exit
+Enter your choice: 1
+Enter Roll Number: 102
+Enter Student Name: Arun
+Enter Marks: 88
+Student added successfully!
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. Display Students
+3. Exit
+Enter your choice: 2
+
+----- STUDENT RECORDS -----
+Roll Number: 101
+Name: Rahul
+Marks: 95
+---------------------------
+Roll Number: 102
+Name: Arun
+Marks: 88
+---------------------------
+
+===== STUDENT DATA MANAGER =====
+1. Add Student
+2. Display Students
+3. Exit
+Enter your choice: 3
+Exiting program...
+
+After this run, students.txt contains:
+101,Rahul,95
+102,Arun,88
+
+Note: students.txt is created automatically after the first successful entry.
