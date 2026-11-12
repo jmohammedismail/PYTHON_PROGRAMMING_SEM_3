@@ -26,3 +26,21 @@ Lab 1 reads `log.txt), which must be placed in this folder. Labs 2 and 3 create 
 - Lab 3: `payroll.csv`
 
 All three programs use exception handling for common input and file errors.
+
+## Mini Project - JSON-Based Log File Analyzer
+
+| File | Purpose |
+|---|---|
+| `MINI_PROJECT_JSON_BASED_LOG_FILE_ANALYZER.py` | Python application |
+| `logs.json` | Sample JSON log input |
+| `MINI_PROJECT_SAMPLE_OUTPUT.txt` | Sample input and expected output |
+
+Run it from this folder:
+
+```bash
+python MINI_PROJECT_JSON_BASED_LOG_FILE_ANALYZER.py
+```
+
+The program uses Python's `json` module, displays valid log records,
+counts INFO, WARNING and ERROR entries, and handles missing files,
+invalid JSON, and invalid records.
