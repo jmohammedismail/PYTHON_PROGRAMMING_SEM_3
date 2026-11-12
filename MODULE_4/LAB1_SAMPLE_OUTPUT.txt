@@ -1,0 +1,24 @@
+Sample log.txt contents:
+10:00 INFO Application started
+10:05 WARNING Low memory
+10:10 ERROR Database connection failed
+10:15 INFO User logged in
+10:20 ERROR File not found
+10:25 INFO Application closed
+
+Program output:
+----- LOG FILE CONTENTS -----
+10:00 INFO Application started
+10:05 WARNING Low memory
+10:10 ERROR Database connection failed
+10:15 INFO User logged in
+10:20 ERROR File not found
+10:25 INFO Application closed
+
+----- ERROR SUMMARY -----
+Total ERROR messages: 2
+
+Missing-file test:
+Error: log.txt does not exist.
+
+Note: Keep log.txt in the same folder as LAB1_LOG_FILE_READER.py.
