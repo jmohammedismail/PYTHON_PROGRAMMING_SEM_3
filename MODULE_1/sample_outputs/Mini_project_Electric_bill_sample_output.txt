@@ -1,0 +1,16 @@
+Program: Mini_project_Electric_bill.py
+Sample input and output:
+
+-----ELECTRICITY BILL------
+Enter the name : Rahul
+Enter the customers id : 101
+Enter the PMR : 1200
+Enter the CMR : 1500
+Enter the cost per unit : 5
+NETBILL is :  1675.0
+
+Calculation:
+Units consumed = 1500 - 1200 = 300
+Energy charge = 300 * 5 = 1500
+Electric duty = 5% of 1500 = 75
+Net bill = 1500 + 75 + 100 = 1675
