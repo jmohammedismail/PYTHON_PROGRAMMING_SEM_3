@@ -1,0 +1,35 @@
+Sample input file: logs.json
+
+[
+    {"timestamp": "10:00", "level": "INFO", "message": "Application started"},
+    {"timestamp": "10:05", "level": "WARNING", "message": "Low memory"},
+    {"timestamp": "10:10", "level": "ERROR", "message": "Database connection failed"},
+    {"timestamp": "10:15", "level": "INFO", "message": "User logged in"},
+    {"timestamp": "10:20", "level": "ERROR", "message": "File not found"},
+    {"timestamp": "10:25", "level": "INFO", "message": "Application closed"}
+]
+
+Program output:
+
+========== APPLICATION LOGS ==========
+10:00 | INFO    | Application started
+10:05 | WARNING | Low memory
+10:10 | ERROR   | Database connection failed
+10:15 | INFO    | User logged in
+10:20 | ERROR   | File not found
+10:25 | INFO    | Application closed
+
+========== LOG SUMMARY ==========
+Total valid log records: 6
+Total INFO messages: 3
+Total WARNING messages: 1
+Total ERROR messages: 2
+
+Missing-file test:
+Error: logs.json was not found.
+
+Invalid-JSON test:
+Error: Invalid JSON data.
+Details: Expecting value: line 1 column 1 (char 0)
+
+Note: Keep logs.json in the same folder as the Python file.
