@@ -1,0 +1,12 @@
+Program: lab_1_contact_book
+Sample input and output:
+
+Enter number of contacts: 2
+Enter name: Rahul
+Enter phone: 9876543210
+Enter name: Arun
+Enter phone: 9123456780
+
+Contacts:
+Rahul - 9876543210
+Arun - 9123456780
