@@ -1,0 +1,7 @@
+Program: lab1_Guessing_no.py
+Example run (the random number in this example is 42):
+
+Guess the number (1-100): 50
+Too high! The number was 42
+
+Note: The secret number changes randomly each time the program runs. Other valid runs may display "Too low!" or "Congratulations!".
