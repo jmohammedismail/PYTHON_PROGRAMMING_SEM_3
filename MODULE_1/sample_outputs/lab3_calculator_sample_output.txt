@@ -1,0 +1,19 @@
+Program: lab3_calculator.py
+Sample input and output:
+
+Enter first number :10
+Enter second number :2
+----ADDITION----
+ADDITION : 12
+----SUBTRACTION----
+SUBTRACTION : 8
+----MULTIPLICATION----
+MULTIPLICATION : 20
+----DIVISION----
+DIVISION : 5.0
+----FLOORDIVISION----
+FLOORDIVISION : 5
+----MODULUS----
+MODULUS : 0
+----EXPONENTIAL----
+EXPONENTIAL : 100
