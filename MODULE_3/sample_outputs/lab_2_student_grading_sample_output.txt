@@ -1,0 +1,12 @@
+Program: lab_2_student_grading
+Sample input and output:
+
+Enter student name: Rahul
+Enter marks 1: 90
+Enter marks 2: 85
+Enter marks 3: 95
+
+Name: Rahul
+Total: 270
+Average: 90.0
+Grade: A
