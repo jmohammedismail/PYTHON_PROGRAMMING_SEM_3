@@ -1,0 +1,17 @@
+Program: lab1_student_detail.py
+Sample input and output:
+
+Enter the name of the Student : Rahul
+Enter the USN of the Student : 123
+Enter the Branch of the Student : CSE
+Enter the semester of the Student : 3
+Enter the Mark of the Student : 85
+Enter the Mark of the Student : 90
+Enter the Mark of the Student : 95
+------------Student details------------
+NAME : Rahul
+USN : 123
+BRANCH : CSE
+SEMESTER : 3
+TOTAl MARKS : 270.0
+AVG MARKS 90.0
