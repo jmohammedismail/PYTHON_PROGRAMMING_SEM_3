@@ -1,0 +1,5 @@
+Program: lab2_factorial.py
+Sample input and output:
+
+Enter no.: 5
+FACTORIAL is 120
