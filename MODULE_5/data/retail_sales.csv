@@ -1,0 +1,16 @@
+Date,Product,Category,Quantity,UnitPrice
+2026-01-03,Laptop,Electronics,2,55000
+2026-01-05,Mouse,Accessories,10,650
+2026-01-08,Keyboard,Accessories,6,1200
+2026-01-12,Phone,Electronics,3,22000
+2026-01-15,Headphones,Accessories,5,1800
+2026-02-02,Laptop,Electronics,1,55000
+2026-02-06,Phone,Electronics,4,22000
+2026-02-10,Monitor,Electronics,2,12500
+2026-02-14,Mouse,Accessories,12,650
+2026-02-20,Keyboard,Accessories,8,1200
+2026-03-01,Monitor,Electronics,3,12500
+2026-03-04,Headphones,Accessories,7,1800
+2026-03-09,Laptop,Electronics,1,55000
+2026-03-16,Phone,Electronics,2,22000
+2026-03-21,Mouse,Accessories,15,650

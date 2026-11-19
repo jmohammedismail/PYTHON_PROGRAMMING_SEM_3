@@ -1,0 +1,9 @@
+===== DICE SIMULATOR =====
+Press Enter to roll the dice or type q to quit:
+You rolled: 4
+Press Enter to roll the dice or type q to quit:
+You rolled: 2
+Press Enter to roll the dice or type q to quit: q
+Thanks for playing!
+
+Note: Dice results are random and will vary each time.

@@ -1,0 +1,26 @@
+===== BANK ACCOUNT MANAGEMENT SYSTEM =====
+Enter account holder name: Ismail
+Enter account number: 100245
+
+1. Deposit
+2. Withdraw
+3. Display Account
+4. Exit
+Enter your choice: 1
+Enter deposit amount: Rs. 5000
+Successfully deposited Rs. 5000.00
+
+1. Deposit
+2. Withdraw
+3. Display Account
+4. Exit
+Enter your choice: 2
+Enter withdrawal amount: Rs. 1200
+Successfully withdrawn Rs. 1200.00
+
+Enter your choice: 3
+
+----- ACCOUNT DETAILS -----
+Account Holder : Ismail
+Account Number : 100245
+Available Balance : Rs. 3800.00

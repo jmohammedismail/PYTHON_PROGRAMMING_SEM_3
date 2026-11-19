@@ -1,0 +1,19 @@
+========== RETAIL SALES SUMMARY ==========
+Total Transactions : 15
+Units Sold         : 81
+Total Revenue      : Rs. 469,050.00
+
+Revenue by Product:
+Headphones      Rs. 21,600.00
+Keyboard        Rs. 16,800.00
+Laptop          Rs. 165,000.00
+Monitor         Rs. 62,500.00
+Mouse           Rs. 24,050.00
+Phone           Rs. 179,000.00
+
+Dashboard windows:
+1. Revenue by Product – bar chart
+2. Monthly Revenue Trend – line chart
+3. Revenue by Category – pie chart
+
+The chart windows open after the summary is printed.

@@ -1,0 +1,24 @@
+Book "Python Basics" added successfully.
+Book "Object Oriented Programming" added successfully.
+Book "Data Science with Python" added successfully.
+
+===== LIBRARY MANAGEMENT SYSTEM =====
+1. Display Books
+2. Search Book
+3. Issue Book
+4. Return Book
+5. Exit
+Enter your choice: 1
+
+----- LIBRARY BOOKS -----
+101 | Python Basics | A. Kumar | Available
+102 | Object Oriented Programming | R. Sharma | Available
+103 | Data Science with Python | S. Iyer | Available
+
+Enter your choice: 3
+Enter book ID to issue: 101
+Book "Python Basics" issued successfully.
+
+Enter your choice: 4
+Enter book ID to return: 101
+Book "Python Basics" returned successfully.
